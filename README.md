@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @vahidtaghiloo
-- 👀 I’m interested in GNU/Linux, electronics, amateur radio coomunications
+- 👀 I’m interested in GNU/Linux, electronics, amateur radio communications
 - 🌱 I’m currently learning SRE/DevOps tools
-- 📫 How to reach me:  [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:v.taghiloo@gmail.com)](mailto:v.taghiloo@gmail.com) | 
-[![Twitter Badge](https://img.shields.io/badge/-VTaghiloo-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/vtaghiloo)](https://twitter.com/vtaghiloo)
+- 📫 How to reach me:  [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:v.taghiloo@gmail.com)](mailto:v.taghiloo@gmail.com)
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
